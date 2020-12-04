@@ -99,7 +99,6 @@ fn main() {
         }
     }
     
-    //.parse::<i32>().unwrap_or(0)
     println!("Valid passports old: {}", valid_pass_old);
     println!("Valid passports new: {}", valid_pass_new);
 }
