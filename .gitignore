@@ -1,0 +1,9 @@
+adventofcode.code-workspace
+
+Day4/debug/
+Day4/target/
+
+Day4/Cargo.lock
+Day4\target\.rustc_info.json
+
+**/*.rs.bk
